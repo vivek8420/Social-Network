@@ -11,7 +11,7 @@
     "@testing-library/user-event": "^7.2.1",
     "@webscopeio/react-textarea-autocomplete": "^4.6.2",
     "antd": "^3.26.4",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "email-validator": "^2.0.4",
     "fuse.js": "^3.4.3",
